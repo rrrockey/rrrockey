@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi, I'm Ryan 👋
+I'm a **Software Engineering** student at Iowa State University passionate about building clean, scalable software and applied machine learning tools.
+
+📫 Contact Me
+- Email: rrockey@iastate.edu
+- LinkedIn: www.linkedin.com/in/ryanrockey/
+
 
 <!--
 **rrrockey/rrrockey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
