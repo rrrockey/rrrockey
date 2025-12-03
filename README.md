@@ -1,7 +1,7 @@
 ## Hi, I'm Ryan 👋
 I'm a **Software Engineering** student at Iowa State University passionate about building clean, scalable software and applied machine learning tools.
 
-📫 Contact Me
+📫 Let's connect!
 - Email: rrockey@iastate.edu
 - Phone: (847) 873 9449
 - LinkedIn: www.linkedin.com/in/ryanrockey/
