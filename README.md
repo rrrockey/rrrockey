@@ -1,23 +1,9 @@
 ## Hi, I'm Ryan 👋
-I'm a **Software Engineering** student at Iowa State University passionate about building clean, scalable software and applied machine learning tools.
+I'm a recent **Software Engineering** grad from Iowa State University passionate about full-stack development and applied machine learning tools. 
+
+Currently building AI-powered tools at R&R Realty that automate workflows and help drive better business decisions in the real estate space!
 
 📫 Let's connect!
 - Email: rrockey@iastate.edu
 - Phone: (847) 873 9449
 - LinkedIn: www.linkedin.com/in/ryanrockey/
-
-
-<!--
-**rrrockey/rrrockey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
